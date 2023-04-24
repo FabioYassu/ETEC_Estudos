@@ -1,3 +1,3 @@
 # Estudos
-Deposito para projetos de estudo basico de algoritmos 
+Depósito dos primeiros projetos de estudo basico.
 
